@@ -29,4 +29,4 @@ so，我们这里来扒一扒哪些比较冷门小众又有趣的东东，总之
 - [Excuses For Lazy Coders](http://programmingexcuses.com/ "据说只有程序员才能找出笑点来。。。")
 - [http://www.fuckqq.com](http://www.fuckqq.com "看到域名应该知道是什么意思，而输入后回车看到跳转到的网站，我们就觉得更有意思了！")
 
-发现，收集过程中又发现好多有趣的东西呢
+发现，收集过程中又发现好多有趣的东西呢，比较乱，有时间再继续整理添加
